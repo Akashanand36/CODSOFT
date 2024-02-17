@@ -8,4 +8,5 @@
 ## Task2
 ## LANDING PAGE
 
+![Screenshot 2024-02-17 153241](https://github.com/Akashanand36/CODSOFT/assets/143102852/3698dead-fed7-45d1-990d-3757177e5c5b)
 
